@@ -11,4 +11,5 @@ pip install -r requirements.txt
 ## Run steamlit app
 ```
 streamlit run dashboard/dashboard.py
+atau buka https://achmadrivaldizulfahhh.streamlit.app/
 ```
